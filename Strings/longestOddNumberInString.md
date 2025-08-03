@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-01-09 at 10 13 23_c903c4a5](https://github.com/user-attachments/assets/9569c787-ec54-44fd-a4a4-6ba8e631ff37)
+![WhatsApp Image 2025-08-03 at 23 57 53_49d6992d](https://github.com/user-attachments/assets/64e8be0d-1eb1-4cbb-a81e-0263625577ff)
+
 
 TC: O(N) SC: O(N)
 
