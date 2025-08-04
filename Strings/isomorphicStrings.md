@@ -2,7 +2,8 @@
 
 <img width="1008" height="467" alt="image" src="https://github.com/user-attachments/assets/60e3bff8-8f02-470b-84af-061f2414933f" />
 
-![WhatsApp Image 2025-08-04 at 20 31 37_9852e7c0](https://github.com/user-attachments/assets/b61606a8-a277-46a2-b740-e57b726b04cd)
+![WhatsApp Image 2025-08-04 at 20 31 37_a16433ff](https://github.com/user-attachments/assets/8954ba2b-1440-4013-b70d-59579eca9826)
+
 
 ![WhatsApp Image 2025-08-04 at 20 31 37_f2489b65](https://github.com/user-attachments/assets/0b711393-6cc1-48c6-bde8-123d08331556)
 
