@@ -1,11 +1,9 @@
-<img width="1022" height="402" alt="image" src="https://github.com/user-attachments/assets/cc695448-255e-4443-95fe-397fa632a896" />
 
-<img width="1008" height="467" alt="image" src="https://github.com/user-attachments/assets/60e3bff8-8f02-470b-84af-061f2414933f" />
+![WhatsApp Image 2025-08-04 at 20 31 37_f2489b65](https://github.com/user-attachments/assets/0b711393-6cc1-48c6-bde8-123d08331556)
 
 ![WhatsApp Image 2025-08-04 at 20 31 37_a16433ff](https://github.com/user-attachments/assets/8954ba2b-1440-4013-b70d-59579eca9826)
 
 
-![WhatsApp Image 2025-08-04 at 20 31 37_f2489b65](https://github.com/user-attachments/assets/0b711393-6cc1-48c6-bde8-123d08331556)
 
 
 Time Complexity: O(N) where N is the length of the input strings, due to the single loop iterating through each character
@@ -28,3 +26,8 @@ public:
         return true;
     }
 };
+```
+
+<img width="1022" height="402" alt="image" src="https://github.com/user-attachments/assets/cc695448-255e-4443-95fe-397fa632a896" />
+
+<img width="1008" height="467" alt="image" src="https://github.com/user-attachments/assets/60e3bff8-8f02-470b-84af-061f2414933f" />
