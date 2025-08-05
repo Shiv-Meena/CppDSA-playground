@@ -1,18 +1,8 @@
 Time Complexity:O(n) due to the recursive calls that iterate through each element of the input vector once.
 Space Complexity:O(n) due to the recursive call stack, where n is the size of the input vector.
 
-aSum(nums, 0)
-|
-|-- nums[0] = 1
-|-- returns 1 + aSum(nums, 1)
-             |
-             |-- nums[1] = 2
-             |-- returns 2 + aSum(nums, 2)
-                          |
-                          |-- nums[2] = 3
-                          |-- returns 3 + aSum(nums, 3)
-                                       |
-                                       |-- aSum(nums, 3) -> index >= size -> returns 0
+<img width="965" height="450" alt="image" src="https://github.com/user-attachments/assets/b339173c-71c8-4f5a-b3a1-11ec413edd05" />
+
 
 
 ```cpp
