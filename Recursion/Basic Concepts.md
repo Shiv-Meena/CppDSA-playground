@@ -9,3 +9,7 @@ The time complexity of a recursive function is generally based on the number of 
 
 Space Complexity
 The space complexity of a recursive function is determined by the maximum depth of the recursive call stack. If the function reaches a maximum recursion depth of n, the space complexity is O(n).
+
+<img width="807" height="515" alt="image" src="https://github.com/user-attachments/assets/c4d765c1-a424-4f0b-b5ff-68d34b59e003" />
+
+
