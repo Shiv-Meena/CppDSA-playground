@@ -1,6 +1,6 @@
 Time Complexity:The time complexity is **O(n^2)** because of the nested loops, where the outer loop runs 'n-1' times and the inner loop's iterations depend on 'i', but in the worst case, it approximates to O(n^2).
 
-Space Complexity:The space complexity is** O(1)** as the algorithm sorts the array in-place, using only a constant amount of extra space for variables like 'i', 'j', and 'minindex'.
+Space Complexity:The space complexity is **O(1)** as the algorithm sorts the array in-place, using only a constant amount of extra space for variables like 'i', 'j', and 'minindex'.
 
 ![WhatsApp Image 2025-08-14 at 06 36 16_3c6dc7a1](https://github.com/user-attachments/assets/e7ba580f-5e6e-4e68-b553-ff6ca62dfec3)
 ![WhatsApp Image 2025-08-14 at 06 36 16_274819ed](https://github.com/user-attachments/assets/de28b67a-ba51-4974-b1d5-ac443ae3b694)
