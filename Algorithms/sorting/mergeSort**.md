@@ -2,6 +2,7 @@ Time Complexity:O(n log n) due to the recursive merge sort algorithm dividing th
 
 Space Complexity:O(n) due to the temporary array used in the merge function.
 
+mid=low+(high-low)/2 -> This is done in order to prevent integer overflow.
 
 <img width="932" height="417" alt="image" src="https://github.com/user-attachments/assets/b18f186e-1edc-4b5d-9cfe-bb3927814420" />
 
