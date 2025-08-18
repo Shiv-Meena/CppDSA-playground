@@ -1,7 +1,8 @@
 Time Complexity:The time complexity is O(c), where c is the column number, due to the loop in the nCr function which iterates 'r' times, and 'r' is optimized to be min(c-1, r-c).
 
 Space Complexity:The space complexity is O(1) because the algorithm uses a constant amount of extra space, regardless of the input size. The variables res, i, n, and r consume a fixed amount of memory.
-![WhatsApp Image 2025-08-18 at 12 35 50_06be0e57](https://github.com/user-attachments/assets/8cf318ed-d878-42fa-a16f-e6d47a5fff60)
+![WhatsApp Image 2025-08-18 at 12 38 38_eac1df61](https://github.com/user-attachments/assets/6e01bec0-1f14-47f1-baf5-2a4bfdda838b)
+
 
 ```CPP
 class Solution {
