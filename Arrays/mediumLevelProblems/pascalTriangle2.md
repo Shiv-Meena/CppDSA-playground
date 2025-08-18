@@ -1,7 +1,8 @@
 Time Complexity:O(r) due to the single loop that iterates up to r.
 
 Space Complexity:O(r) because the vector 'temp' stores 'r' elements.
-![Uploading WhatsApp Image 2025-08-18 at 12.59.59_ce3c73a4.jpg…]()
+![WhatsApp Image 2025-08-18 at 12 59 59_ce3c73a4](https://github.com/user-attachments/assets/8c9fb371-7b0b-435e-b847-d70aa67185eb)
+
 
 ```cpp
 class Solution {
