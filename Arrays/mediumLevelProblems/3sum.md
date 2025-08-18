@@ -4,6 +4,7 @@ Space Complexity:O(1) excluding the output array; O(n) including the output arra
 
 <img width="986" height="746" alt="image" src="https://github.com/user-attachments/assets/f3473f3f-9e3c-4bb0-bc40-1d2b7b6ea447" />
 
+Start with one ingredient and use two pointers, one starting from the left (beginning of the list) and the other from the right (end of the list). By adjusting these pointers, check if the three chosen ingredients balance to zero calories. If they do, you have a balanced meal! Continue this process, ensuring that the same combination of ingredients more than once is not picked.
 ```cpp
 class Solution {
 public:
