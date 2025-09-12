@@ -1,1 +1,2 @@
+Given that arrays are of a fixed size, the memory allocated for an array is determined at the time of its creation. The size of the array cannot be altered during runtime, making arrays a static data structure.
 
