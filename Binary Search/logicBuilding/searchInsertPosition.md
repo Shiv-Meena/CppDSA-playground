@@ -2,8 +2,8 @@ Time Complexity:O(log n) due to binary search algorithm.
 
 Space Complexity:O(1) because it uses a constant amount of extra space.
 
-In this specific problem, if the target itself is found, return its index. Otherwise, return the smallest index where the element is greater than the target. Upon observation, it becomes clear that the lower bound of the target serves this purpose. Therefore, for this problem, simply find the **lower bound of the target. If no such element is found, return the size of the array.
-**
+In this specific problem, if the target itself is found, return its index. Otherwise, return the smallest index where the element is greater than the target. Upon observation, it becomes clear that the lower bound of the target serves this purpose. Therefore, for this problem, simply find the **lower bound of the target. If no such element is found, return the size of the array.**
+
 ```cpp
 class Solution {
 public:
