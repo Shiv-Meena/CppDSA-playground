@@ -2,6 +2,8 @@ Time Complexity:The time complexity is O(log(M) * N), where M is the input integ
 
 Space Complexity:The space complexity is O(1), as it uses constant extra space.
 
+Need of a helper function to find the exponent of the number: If the given numbers M and N are big enough, the value of midN can not be stored in a variable. So to resolve this problem, implement a helper function.
+
 ![WhatsApp Image 2025-09-17 at 08 05 02_714cad8e](https://github.com/user-attachments/assets/bc2fe60c-a1ce-4e01-9b62-1b7be5900fdb)
 ![WhatsApp Image 2025-09-17 at 08 05 02_1c216378](https://github.com/user-attachments/assets/0286b3e7-7a8f-4eae-a69f-eaf53d5888b7)
 ![WhatsApp Image 2025-09-17 at 08 05 02_301fe06d](https://github.com/user-attachments/assets/da7e61f3-6716-4503-b14d-29ff9a08ed60)
