@@ -2,9 +2,12 @@ Small note: since numbers are huge, the sum in helper can grow big (but within r
 For safety, change sum to long long
 
 <img width="512" height="238" alt="image" src="https://github.com/user-attachments/assets/a2f2c92f-530a-4e9b-bd30-de8119db5c4c" />
+
 Time Complexity:O(n log m) where n is the size of nums and m is the maximum element in nums.
 
 Space Complexity:O(1) excluding the input array.
+
+![WhatsApp Image 2025-09-18 at 08 39 37_c0b2db48](https://github.com/user-attachments/assets/011c4a1b-ba9a-4095-991b-e61d82d3d288)
 
 ```cpp
 class Solution {
