@@ -1,1 +1,15 @@
 
+Difference Between Node and Node*
+In C++, the terms Node and Node* are related but refer to different concepts:
+
+Node:
+This represents a variable of type Node.
+It is an instance of the Node structure or class.
+When you declare a variable as Node, it directly holds the data and any member variables defined in the Node structure or class.
+Example: Node node1; creates a Node object named node1.
+
+Node*:
+This represents a pointer to a Node type.
+It does not hold the actual data but rather the memory address where a Node object is stored.
+Using a pointer allows for dynamic memory allocation, meaning you can create and manage nodes at runtime using the new operator.
+Example: Node* nodePtr = new Node(); creates a pointer to a dynamically allocated Node object.
