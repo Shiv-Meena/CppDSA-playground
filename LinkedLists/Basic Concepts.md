@@ -19,3 +19,12 @@ cpp// Always cast when mixing the two
 for(int i = 0; i < (int)arr.size(); i++)  // ✅ safe
 
 <img width="514" height="310" alt="image" src="https://github.com/user-attachments/assets/79016e86-b281-4ecd-9caa-b29c099b2f60" />
+
+Only Bug — free() instead of delete
+cppfree(temp);   // ❌ wrong deallocation for C++ objects
+delete temp;  // ✅ correct
+Why it matters:
+
+free() is a C function — only works with malloc()
+new and delete are C++ — they also call constructors/destructors
+Mixing them is undefined behavior — may work sometimes, crash randomly other times
