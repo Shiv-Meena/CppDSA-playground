@@ -20,11 +20,5 @@ for(int i = 0; i < (int)arr.size(); i++)  // ✅ safe
 
 <img width="514" height="310" alt="image" src="https://github.com/user-attachments/assets/79016e86-b281-4ecd-9caa-b29c099b2f60" />
 
-Only Bug — free() instead of delete
-cppfree(temp);   // ❌ wrong deallocation for C++ objects
-delete temp;  // ✅ correct
-Why it matters:
+<img width="526" height="217" alt="image" src="https://github.com/user-attachments/assets/d6d294be-ee18-46da-b4a3-21ef45d5bb8f" />
 
-free() is a C function — only works with malloc()
-new and delete are C++ — they also call constructors/destructors
-Mixing them is undefined behavior — may work sometimes, crash randomly other times
